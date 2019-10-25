@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cipher",
+            "request": "launch",
+            "mainClass": "Cipher",
+            "projectName": "Cipher_58c57829"
+        }
+    ]
+}

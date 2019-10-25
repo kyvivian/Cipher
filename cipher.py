@@ -5,6 +5,11 @@
 
 
 import sys 
+import tkinter as tk
+
+w = tk.Tk()
+w.title("Cipher")
+b = tk.Button(w, option=value)
 
 def index_2d(myList, v):
     for i, x in enumerate(myList):
